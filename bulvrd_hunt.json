@@ -1,0 +1,13 @@
+{
+  "name": "BULVRD Scavenger Hunt",
+  "image": "https://s3.amazonaws.com/bulvrdapp.com/assets/bulvrd_drive.png", 
+  "description": "Collect NFTs placed around the globe!", 
+  "attributes": {
+    "lat": 38.872293,
+    "lon": -77.229804,
+    "assetAddy" : "0x558a6C56866B29C5C29F7c53656Fc3C4dD6f0bE0",
+    "id", 229
+  },
+  "external_url": "https://bulvrdapp.com/", 
+  "background_color": "00FFFF"
+}
